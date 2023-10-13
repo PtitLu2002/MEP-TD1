@@ -10,8 +10,8 @@ The services shows a basic example of how to create a service for processing vid
 
 #### How To Run
 1. Clone the repository `git clone https://github.com/PtitLu2002/MEP-TD1.git`
-3. Run `docker compose build` and `docker compose up`
-   Or `docker compose up --build`
+3. Run `docker compose build` and `docker compose up`  
+or run `docker compose up --build`
 4. Go to http://localhost:8080/client.php
 
 ## Source
